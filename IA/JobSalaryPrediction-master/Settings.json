@@ -1,6 +1,6 @@
 {
-    "train_data_path": "../../Database/Kaggle/Train_rev1.csv",
-    "valid_data_path": "../../Database/Kaggle/Valid_rev1.csv",
+    "train_data_path": "../../../Database/Kaggle/Train_rev1.csv",
+    "valid_data_path": "../../../Database/Kaggle/Valid_rev1.csv",
     "model_path": "./randomforest.sav",
-    "prediction_path": "../../Database/Kaggle/random_forest_benchmark_rev1.csv"
+    "prediction_path": "../../../Database/Kaggle/random_forest_benchmark_rev1.csv"
 }
