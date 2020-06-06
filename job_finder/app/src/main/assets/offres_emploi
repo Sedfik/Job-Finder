@@ -1,0 +1,2127 @@
+{
+  "filtresPossibles": [
+    {
+      "agregation": [
+        {
+          "nbResultats": 245,
+          "valeurPossible": "CDD"
+        }
+      ],
+      "filtre": "typeContrat"
+    },
+    {
+      "agregation": [
+        {
+          "nbResultats": 132,
+          "valeurPossible": "1"
+        },
+        {
+          "nbResultats": 107,
+          "valeurPossible": "2"
+        },
+        {
+          "nbResultats": 6,
+          "valeurPossible": "3"
+        }
+      ],
+      "filtre": "experience"
+    },
+    {
+      "agregation": [
+        {
+          "nbResultats": 235,
+          "valeurPossible": "0"
+        },
+        {
+          "nbResultats": 10,
+          "valeurPossible": "9"
+        }
+      ],
+      "filtre": "qualification"
+    },
+    {
+      "agregation": [
+        {
+          "nbResultats": 213,
+          "valeurPossible": "E1"
+        },
+        {
+          "nbResultats": 16,
+          "valeurPossible": "E2"
+        },
+        {
+          "nbResultats": 2,
+          "valeurPossible": "FA"
+        },
+        {
+          "nbResultats": 14,
+          "valeurPossible": "FS"
+        }
+      ],
+      "filtre": "natureContrat"
+    }
+  ],
+  "resultats": [
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Laveur / Laveuse de véhicules automobiles",
+      "competences": [
+        {
+          "exigence": "E",
+          "libelle": "autonomie"
+        },
+        {
+          "exigence": "E",
+          "libelle": "rigueur"
+        },
+        {
+          "code": "116797",
+          "exigence": "S",
+          "libelle": "Intervention de service rapide"
+        },
+        {
+          "code": "116708",
+          "exigence": "S",
+          "libelle": "Procédures d'entretien de véhicules"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : villabeautolavage@gmail.com",
+        "courriel": "villabeautolavage@gmail.com",
+        "nom": "AMERICAN CAR WASH - RAPID PARE-BRIS - M. BIYIK"
+      },
+      "dateCreation": "2020-06-02T14:36:12+02:00",
+      "description": "En tant que Laveur / Laveuse de véhicules automobiles, vos principales missions sont : \n\n- le lavage au karcher\n- l'essuyage manuel\n- le passage d'aspirateur\n- le dépoussiérage à la soufflette\n- le nettoyage des vitres\n- le nettoyage des plastiques, des sièges et des moquettes\n\nHoraires de travail : 10h-13h 14h-18h30 - par roulement\n2 jours de repos par semaine (le dimanche + autre jour à déterminer avec l'employeur)\n\nMerci d'adresser votre candidature par mail OU contacter Monsieur BIYIK  par téléphone au : 07.67.21.62.16",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "AMERICAN CAR WASH - RAPID PARE-BRIS"
+      },
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [],
+      "id": "101XXZN",
+      "intitule": "Laveur / Laveuse de véhicules automobiles",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91100",
+        "commune": "91659",
+        "latitude": 48.58833333,
+        "libelle": "91 - VILLABE",
+        "longitude": 2.456111111
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XXZN"
+      },
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "I1604",
+      "romeLibelle": "Mécanique automobile et entretien de véhicules",
+      "salaire": {
+        "libelle": "Mensuel de 1539,45 Euros sur 12 mois"
+      },
+      "secteurActivite": "45",
+      "secteurActiviteLibelle": "Entretien et réparation de véhicules automobiles légers",
+      "trancheEffectifEtab": "6 à 9 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91123@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Conducteur / Conductrice de bus",
+      "competences": [
+        {
+          "code": "110526",
+          "exigence": "S",
+          "libelle": "Conduire des passagers selon un parcours/circuit prédéfini"
+        },
+        {
+          "code": "115663",
+          "exigence": "S",
+          "libelle": "Contrôler les titres de transport"
+        },
+        {
+          "code": "102068",
+          "exigence": "S",
+          "libelle": "Encaisser le montant d'une vente"
+        },
+        {
+          "code": "110523",
+          "exigence": "S",
+          "libelle": "Préparer le véhicule, repérer le parcours et prévoir les aléas"
+        },
+        {
+          "code": "120031",
+          "exigence": "S",
+          "libelle": "Renseigner les documents de bord d'un véhicule"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "2 AVENUE d'Alsace",
+        "coordonnees2": "91940 LES ULIS",
+        "coordonnees3": "Courriel : ape.91123@pole-emploi.fr",
+        "nom": "Pôle Emploi Les Ulis"
+      },
+      "dateCreation": "2020-06-02T14:33:14+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens Départemental",
+      "description": "Transdev recrute deux conducteurs-receveurs H/F \nMissions conduite en coupure\n- assure une conduite souple et adaptée afin de garantir le confort du client\n- transporte le client selon les itinéraires et horaires définis\n- veille au respect de la règlementation et adopte une attitude éco responsable\n- veille au bon fonctionnement du véhicule et assure la remontée de tout incident lié au véhicule\n- assure la gestion des documents d'exploitation.\nMissions commerciales :\n- incite les clients à la validation des titres\n- effectue la vente des titres à bord et gère la caisse\n- accueille et informe les clients\n- assure un reporting quotidien des difficultés rencontrées\n- respecte les consignes d'exploitation\nPERMIS D OBLIGATOIRE +fimo a jour\n\nMESURES DE PROTECTION COVID PRISES",
+      "dureeTravailLibelle": "35H Horaires variables",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "TRANSDEV CEAT"
+      },
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [],
+      "id": "101XXXC",
+      "intitule": "Conducteur / Conductrice de bus",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91220",
+        "commune": "91103",
+        "latitude": 48.60944444,
+        "libelle": "91 - Pontault-Combault",
+        "longitude": 2.307777777
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XXXC"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "D - Transport de personnes Exigé"
+        }
+      ],
+      "qualificationCode": "5",
+      "qualificationLibelle": "Employé non qualifié",
+      "romeCode": "N4103",
+      "romeLibelle": "Conduite de transport en commun sur route",
+      "salaire": {
+        "complement1": "Primes",
+        "libelle": "Mensuel de 1800,00 Euros sur 12 mois"
+      },
+      "secteurActivite": "49",
+      "secteurActiviteLibelle": "Transports routiers réguliers de voyageurs",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 1 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91123@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Conducteur / Conductrice de bus",
+      "competences": [
+        {
+          "code": "110526",
+          "exigence": "S",
+          "libelle": "Conduire des passagers selon un parcours/circuit prédéfini"
+        },
+        {
+          "code": "115663",
+          "exigence": "S",
+          "libelle": "Contrôler les titres de transport"
+        },
+        {
+          "code": "102068",
+          "exigence": "S",
+          "libelle": "Encaisser le montant d'une vente"
+        },
+        {
+          "code": "110523",
+          "exigence": "S",
+          "libelle": "Préparer le véhicule, repérer le parcours et prévoir les aléas"
+        },
+        {
+          "code": "120031",
+          "exigence": "S",
+          "libelle": "Renseigner les documents de bord d'un véhicule"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "2 AVENUE d'Alsace",
+        "coordonnees2": "91940 LES ULIS",
+        "coordonnees3": "Courriel : ape.91123@pole-emploi.fr",
+        "nom": "Pôle Emploi Les Ulis"
+      },
+      "dateCreation": "2020-06-02T14:27:31+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens Départemental",
+      "description": "Transdev recrute deux conducteurs-receveurs H/F \nMissions conduite en coupure\n- assure une conduite souple et adaptée afin de garantir le confort du client\n- transporte le client selon les itinéraires et horaires définis\n- veille au respect de la règlementation et adopte une attitude éco responsable\n- veille au bon fonctionnement du véhicule et assure la remontée de tout incident lié au véhicule\n- assure la gestion des documents d'exploitation.\nMissions commerciales :\n- incite les clients à la validation des titres\n- effectue la vente des titres à bord et gère la caisse\n- accueille et informe les clients\n- assure un reporting quotidien des difficultés rencontrées\n- respecte les consignes d'exploitation\nPERMIS D OBLIGATOIRE +fimo a jour\n\nMESURES DE PROTECTION COVID PRISES",
+      "dureeTravailLibelle": "35H Horaires variables",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "TRANSDEV CEAT"
+      },
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [],
+      "id": "101XXSF",
+      "intitule": "Conducteur / Conductrice de bus",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91220",
+        "commune": "91103",
+        "latitude": 48.60944444,
+        "libelle": "91 - BRETIGNY SUR ORGE",
+        "longitude": 2.307777777
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XXSF"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "D - Transport de personnes Exigé"
+        }
+      ],
+      "qualificationCode": "5",
+      "qualificationLibelle": "Employé non qualifié",
+      "romeCode": "N4103",
+      "romeLibelle": "Conduite de transport en commun sur route",
+      "salaire": {
+        "complement1": "Primes",
+        "libelle": "Mensuel de 1800 Euros sur 12 mois"
+      },
+      "secteurActivite": "49",
+      "secteurActiviteLibelle": "Transports routiers réguliers de voyageurs",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 1 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Assistant administratif / Assistante administrative",
+      "competences": [
+        {
+          "code": "120130",
+          "exigence": "S",
+          "libelle": "Accueillir une clientèle"
+        },
+        {
+          "code": "121877",
+          "exigence": "S",
+          "libelle": "Classer les documents, informations et fonds documentaires d'une activité"
+        },
+        {
+          "code": "120722",
+          "exigence": "S",
+          "libelle": "Planifier des rendez-vous"
+        },
+        {
+          "code": "120992",
+          "exigence": "S",
+          "libelle": "Réaliser la gestion administrative du courrier"
+        },
+        {
+          "code": "124156",
+          "exigence": "S",
+          "libelle": "Saisir des documents numériques"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : contact.lmimmobilier@gmail.com",
+        "courriel": "contact.lmimmobilier@gmail.com",
+        "nom": "LM IMMOBILIER - Mme X LEMONIER"
+      },
+      "dateCreation": "2020-06-02T13:58:37+02:00",
+      "description": "Au sein d'une agence immobilière vous réaliserez le traitement administratif de dossiers (frappe de courrier, mise en forme de document, ...) et transmettrez les informations (e-mail, notes, fax, ...) pour le compte du  responsable selon\nl'organisation de l'entreprise.\nVous pourrez être amené à  prendre en charge le suivi complet de dossiers.\nVous devez maîtriser le pack office.\nTravail du mardi au samedi 9H30-12H30/ 14H à 19H",
+      "dureeTravailLibelle": "37H05 Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "logo": "https://entreprise.pole-emploi.fr/static/img/logos/AhEZRe8YPTKUXkqFyfjmx5OmMIpI675B.png",
+        "nom": "LM IMMOBILIER",
+        "url": "http://www.lmimmobilier.fr"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "1 an",
+      "formations": [],
+      "id": "101XWSM",
+      "intitule": "Assistant administratif / Assistante administrative",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91650",
+        "commune": "91105",
+        "latitude": 48.56611111,
+        "libelle": "91 - BREUILLET",
+        "longitude": 2.171388888
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XWSM"
+      },
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à s’adapter à des situations variées et à s’ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l’entreprise. Exemple : être souple, agile, s’adapter à une situation imprévue",
+          "libelle": "Capacité d’adaptation"
+        },
+        {
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable",
+          "libelle": "Autonomie"
+        },
+        {
+          "description": "Capacité à respecter les règles et codes de l’entreprise; à réaliser des tâches en suivant avec précision les procédures et instructions fournies ; à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction",
+          "libelle": "Rigueur"
+        }
+      ],
+      "romeCode": "M1607",
+      "romeLibelle": "Secrétariat",
+      "salaire": {
+        "libelle": "Horaire de 10,15 Euros"
+      },
+      "secteurActivite": "68",
+      "secteurActiviteLibelle": "Agences immobilières",
+      "trancheEffectifEtab": "0 salarié",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 3 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Employé / Employée de rayon électroménager",
+      "competences": [
+        {
+          "code": "117532",
+          "exigence": "S",
+          "libelle": "Disposer des produits sur le lieu de vente"
+        },
+        {
+          "code": "119860",
+          "exigence": "S",
+          "libelle": "Préparer les commandes"
+        },
+        {
+          "code": "117547",
+          "exigence": "S",
+          "libelle": "Réceptionner un produit"
+        },
+        {
+          "code": "116932",
+          "exigence": "S",
+          "libelle": "Suivre l'état des stocks"
+        },
+        {
+          "code": "119851",
+          "exigence": "S",
+          "libelle": "Vérifier la conformité de la livraison"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : gregory.clausse@electrodepot.fr",
+        "courriel": "gregory.clausse@electrodepot.fr",
+        "nom": "FACADE SUD EST - M. Brice Fissier"
+      },
+      "dateCreation": "2020-06-02T13:44:15+02:00",
+      "description": "URGENT! NOUS RECHERCHONS POUR NOTRE DÉPÔT\n\nVous êtes garant(e) de la satisfaction de votre client par la qualité de votre accueil, de vos conseils et par la disponibilité immédiate et constante des produits. De la réception, au contrôle des marchandises, vous vous assurez de la disponibilité des produits, de la visibilité des prix, de la propreté et de la sécurité de votre environnement. Vous aidez votre client dans son choix, en le conseillant, en le satisfaisant tout en le confortant dans son achat. Vous êtes responsabilisé(e) sur la gestion de vos stocks, par la prise de commande et par la mise en place d'inventaires tournants",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "description": "ELECTRO DÉPÔT, filiale du groupe HTM, a ouvert de nouveaux horizons dans le monde de la distribution spécialisée avec un concept inédit en électroménager : Proposer des gammes courtes, percutantes et disponibles immédiatement dans nos 81 magasins en France. Notre devise : \"Vous choisissez, Vous achetez, Vous emportez\".",
+        "logo": "https://entreprise.pole-emploi.fr/static/img/logos/KzpQHWSURc4DAMeALzeS90If1eVePGBQ.png",
+        "nom": "FACADE SUD EST",
+        "url": "https://ecoleducommerce.csod.com/ux/ats/careersite/1/home?c=ecoleducommerce"
+      },
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [],
+      "id": "101XWKB",
+      "intitule": "Equipier Magasin (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91700",
+        "commune": "91235",
+        "latitude": 48.62944444,
+        "libelle": "91 - FLEURY MEROGIS",
+        "longitude": 2.361388888
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 2,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XWKB"
+      },
+      "qualificationCode": "5",
+      "qualificationLibelle": "Employé non qualifié",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l’entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l’aide",
+          "libelle": "Travail en équipe"
+        },
+        {
+          "description": "Capacité à transmettre clairement des informations, à échanger, à écouter activement, à réceptionner des informations et messages et à faire preuve d’ouverture d’esprit. Exemple : être à l’écoute, être attentif aux autres",
+          "libelle": "Sens de la communication"
+        },
+        {
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable",
+          "libelle": "Autonomie"
+        }
+      ],
+      "romeCode": "D1507",
+      "romeLibelle": "Mise en rayon libre-service",
+      "salaire": {
+        "libelle": "Horaire de 10,15 Euros à 10,15 Euros sur 12 mois"
+      },
+      "secteurActivite": "47",
+      "secteurActiviteLibelle": "Commerce de détail d'appareils électroménagers en magasin spécialisé",
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 3 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Ouvrier / Ouvrière des espaces verts",
+      "competences": [
+        {
+          "code": "124561",
+          "exigence": "S",
+          "libelle": "Entretenir un élément de décoration"
+        },
+        {
+          "code": "124544",
+          "exigence": "S",
+          "libelle": "Entretenir un espace extérieur"
+        },
+        {
+          "code": "122730",
+          "exigence": "S",
+          "libelle": "Préparer les sols et les plantations (épandage, semis, récolte, ...)"
+        },
+        {
+          "code": "100058",
+          "exigence": "S",
+          "libelle": "Sécuriser le chantier et son environnement (signalisation, ...)"
+        },
+        {
+          "code": "100063",
+          "exigence": "S",
+          "libelle": "Tailler les arbres selon l'orientation de croissance ou la forme recherchée et supprimer les branches indésirables"
+        },
+        {
+          "code": "122739",
+          "exigence": "S",
+          "libelle": "Techniques d'engazonnement"
+        },
+        {
+          "code": "100064",
+          "exigence": "S",
+          "libelle": "Utilisation d'engins de tonte (autotracté/autoporté)"
+        },
+        {
+          "code": "120676",
+          "exigence": "S",
+          "libelle": "Utilisation d'outils de taille"
+        }
+      ],
+      "complementExercice": "7h00 - 17h00 (1h déjeuner)",
+      "dateCreation": "2020-06-02T12:33:00+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens Départemental",
+      "description": "Vous aurez en charge l'aménagement et entretient des espaces verts (parcs, jardins, terrains de sport, ...) et des décors végétaux d'intérieur ou d'extérieur (bureaux, commerces, halls d'accueil, murs végétaux, ...) selon les règles de sécurité et la réglementation environnementale.Taille haies, tonte, ramassage des déchets\nVous pourrez être amené à aménager des ouvrages paysagers, des ouvrages maçonnés et installer du mobilier urbain.\n\nContacter l'employeur au 0650664314",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "PAYSAGES DE BRUYERES  EURL"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans",
+      "formations": [],
+      "id": "101XVFR",
+      "intitule": "Ouvrier / Ouvrière des espaces verts",
+      "langues": [],
+      "lieuTravail": {
+        "libelle": "91 - Essonne"
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XVFR"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "B - Véhicule léger Exigé"
+        }
+      ],
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "A1203",
+      "romeLibelle": "Aménagement et entretien des espaces verts",
+      "salaire": {
+        "commentaire": "Repas 9€/jour",
+        "complement1": "Repas 9€/jour",
+        "libelle": "Mensuel de 1800,00 Euros sur 12 mois"
+      },
+      "secteurActivite": "81",
+      "secteurActiviteLibelle": "Services d'aménagement paysager",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Chef d'équipe d'entretien des espaces verts",
+      "competences": [
+        {
+          "code": "102359",
+          "exigence": "S",
+          "libelle": "Coordonner l'activité d'une équipe"
+        },
+        {
+          "code": "124561",
+          "exigence": "S",
+          "libelle": "Entretenir un élément de décoration"
+        },
+        {
+          "code": "124544",
+          "exigence": "S",
+          "libelle": "Entretenir un espace extérieur"
+        },
+        {
+          "code": "126262",
+          "exigence": "S",
+          "libelle": "Installer des mobiliers urbains de parc et jardin"
+        },
+        {
+          "code": "122730",
+          "exigence": "S",
+          "libelle": "Préparer les sols et les plantations (épandage, semis, récolte, ...)"
+        },
+        {
+          "code": "140913",
+          "exigence": "S",
+          "libelle": "Réaliser des ouvrages de maçonnerie paysagère (dallages, pavages, murets, escaliers, ...)"
+        },
+        {
+          "code": "103771",
+          "exigence": "S",
+          "libelle": "Réaliser et poser les coffrages et couler les éléments en béton"
+        },
+        {
+          "code": "100058",
+          "exigence": "S",
+          "libelle": "Sécuriser le chantier et son environnement (signalisation, ...)"
+        },
+        {
+          "code": "100063",
+          "exigence": "S",
+          "libelle": "Tailler les arbres selon l'orientation de croissance ou la forme recherchée et supprimer les branches indésirables"
+        },
+        {
+          "code": "122739",
+          "exigence": "S",
+          "libelle": "Techniques d'engazonnement"
+        }
+      ],
+      "complementExercice": "7h00 - 17h00 (1h déjeuner)",
+      "contact": {
+        "coordonnees1": "Tél. : 0650664314",
+        "nom": "PAYSAGES DE BRUYERES  EURL - M. Stéphane BEKAERT",
+        "telephone": "0650664314"
+      },
+      "dateCreation": "2020-06-02T12:27:05+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens Départemental",
+      "description": "Sécuriser le chantier et son environnement (signalisation, ...)\nPréparer les sols et les plantations (épandage, semis, récolte, ...)\nEntretenir un élément de décoration (haies etc...)\nEntretenir un espace extérieur\nTailler les arbres selon l'orientation de croissance ou la forme recherchée et supprimer les branches indésirables\nAssurer une maintenance de premier niveau\nEntretenir des équipements etc...\nVous aurez à gérer une équipe de trois personnes",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "description": "Entreprise crée en 2016 réalise entretiens et travaux d'aménagement paysager.",
+        "nom": "PAYSAGES DE BRUYERES  EURL",
+        "url": "http://www.paysagesdebruyeres.fr"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans",
+      "formations": [],
+      "id": "101XVBY",
+      "intitule": "Chef d'équipe d'entretien des espaces verts",
+      "langues": [],
+      "lieuTravail": {
+        "libelle": "91 - Essonne"
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XVBY"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "B - Véhicule léger Exigé"
+        }
+      ],
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "A1203",
+      "romeLibelle": "Aménagement et entretien des espaces verts",
+      "salaire": {
+        "commentaire": "Repas 9€/jour",
+        "complement1": "Repas 9€/jour",
+        "libelle": "Mensuel de 2200,00 Euros à 2300,00 Euros sur 12 mois"
+      },
+      "secteurActivite": "81",
+      "secteurActiviteLibelle": "Services d'aménagement paysager",
+      "trancheEffectifEtab": "1 ou 2 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91123@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Agent d'entretien maintenance polyvalent / Agente d'entretien maintenance polyvalente en collectivité",
+      "competences": [
+        {
+          "code": "121493",
+          "exigence": "S",
+          "libelle": "Appliquer des gammes de peintures, vernis, enduits ou laques"
+        },
+        {
+          "code": "123621",
+          "exigence": "S",
+          "libelle": "Contrôler une installation électrique"
+        },
+        {
+          "code": "106659",
+          "exigence": "S",
+          "libelle": "Diagnostiquer une panne sur une installation (éclairage, chauffage, sanitaires)"
+        },
+        {
+          "code": "124543",
+          "exigence": "S",
+          "libelle": "Entretenir des locaux"
+        },
+        {
+          "code": "124544",
+          "exigence": "S",
+          "libelle": "Entretenir un espace extérieur"
+        },
+        {
+          "code": "106661",
+          "exigence": "S",
+          "libelle": "Réparer ou remplacer les poignées, vitres, rails, ... de portes, fenêtres, ..."
+        }
+      ],
+      "contact": {
+        "coordonnees1": "2 AVENUE d'Alsace",
+        "coordonnees2": "91940 LES ULIS",
+        "coordonnees3": "Courriel : ape.91123@pole-emploi.fr",
+        "nom": "Pôle Emploi Les Ulis"
+      },
+      "dateCreation": "2020-06-02T11:46:24+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens Départemental",
+      "description": "Vous travaillez dans un établissement médico-social accompagnant des personnes en situation de handicap mental.\nVous assurez la gestion et le suivi de la maintenance des locaux.\nVous êtes responsable de la vérification et de la mise aux normes de sécurité incendie.\nVous avez des compétences dans le bricolage (plomberie, électricité, réparation)\nVous assurez le transport des usagers le matin ou le soir vers leur domicile avec un véhicule léger de 9 places\nVous assurez l'entretien des locaux\nHoraires en coupure : 7h00-9h45 et 16h00-18h30 sauf le mardi 7h00-12h30 et13h00-18h30",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "FOYER VIGNES ET TILLEULS"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "1 an",
+      "formations": [],
+      "id": "101XSLW",
+      "intitule": "Agent d'entretien maintenance polyvalent-chauffeur  (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91940",
+        "commune": "91275",
+        "latitude": 48.67861111,
+        "libelle": "91 - GOMETZ LE CHATEL",
+        "longitude": 2.13861111
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XSLW"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "B - Véhicule léger Exigé"
+        }
+      ],
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "I1203",
+      "romeLibelle": "Maintenance des bâtiments et des locaux",
+      "salaire": {
+        "libelle": "Mensuel de 1540 Euros sur 12 mois"
+      },
+      "secteurActivite": "87",
+      "secteurActiviteLibelle": "Hébergement social pour handicapés physiques",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 3 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91082@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Psychologue scolaire",
+      "competences": [
+        {
+          "code": "107816",
+          "exigence": "S",
+          "libelle": "Accompagner la personne, suivre l'avancement du travail psychologique (points de vigilance, axes de progrès) et proposer des ajustements"
+        },
+        {
+          "code": "113738",
+          "exigence": "S",
+          "libelle": "Actualiser la documentation professionnelle et réglementaire"
+        },
+        {
+          "code": "120697",
+          "exigence": "S",
+          "libelle": "Assurer un accueil téléphonique"
+        },
+        {
+          "code": "107814",
+          "exigence": "S",
+          "libelle": "Cerner l'environnement familial, social de la personne et identifier la nature des difficultés (troubles fonctionnels, de la personnalité, de l'apprentissage)"
+        },
+        {
+          "code": "107815",
+          "exigence": "S",
+          "libelle": "Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+        },
+        {
+          "code": "119599",
+          "exigence": "S",
+          "libelle": "Participer à des groupes de travail"
+        }
+      ],
+      "complementExercice": "TRAVAIL LE SAMEDI",
+      "contact": {
+        "coordonnees1": "9 COURS Blaise Pascal",
+        "coordonnees2": "91000 EVRY",
+        "coordonnees3": "Courriel : ape.91082@pole-emploi.fr",
+        "nom": "Pôle Emploi Evry"
+      },
+      "dateCreation": "2020-06-02T11:34:09+02:00",
+      "deplacementCode": "2",
+      "deplacementLibelle": "Ponctuels Départemental",
+      "description": "Les psychologues de l'Éducation nationale (PsyEn, spécialité EDCOSP) exercent leurs fonctions sous l'autorité d'un(e) directeur(trice) dans les CIO et dans les établissements du second degré. Ils mobilisent leurs compétences au service de l'élaboration progressive du projet de formation et d'orientation des collégiens et lycéens. Ils interviennent dans la lutte contre toutes les formes de ruptures scolaires et participent à l'information et au premier accueil de toute personne en recherche de solutions pour son orientation.\nActivités exercées :\n-réaliser des entretiens et des bilans psychologiques,\n-apporter une expertise pour la prise en compte des problématiques spécifiques de l'adolescence\n-contribuer à la réflexion collective du territoire d'intervention sur l'orientation et l'affectation\n-intervenir dans le cadre du Centre d'Information et d'Orientation en direction des publics sortis ou non du système\n\nPRISE DE POSTE SEPTEMBRE\n",
+      "dureeTravailLibelle": "39H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "direction serv  departementaux education"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "1 an",
+      "formations": [
+        {
+          "codeFormation": "14454",
+          "commentaire": "Pas de commentaire formation",
+          "domaineLibelle": "Psychologie",
+          "exigence": "E",
+          "niveauLibelle": "Bac+5 et plus ou équivalents"
+        }
+      ],
+      "id": "101XRVW",
+      "intitule": "Psychologue de l'éducation nationale contractuel  (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "libelle": "91 - Essonne"
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XRVW"
+      },
+      "permis": [
+        {
+          "exigence": "S",
+          "libelle": "B - Véhicule léger Souhaité"
+        }
+      ],
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à s’adapter à des situations variées et à s’ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l’entreprise. Exemple : être souple, agile, s’adapter à une situation imprévue",
+          "libelle": "Capacité d’adaptation"
+        },
+        {
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable",
+          "libelle": "Autonomie"
+        },
+        {
+          "description": "Capacité à respecter les règles et codes de l’entreprise; à réaliser des tâches en suivant avec précision les procédures et instructions fournies ; à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction",
+          "libelle": "Rigueur"
+        }
+      ],
+      "romeCode": "K1104",
+      "romeLibelle": "Psychologie",
+      "salaire": {
+        "libelle": "Mensuel de 2250,00 Euros sur 12 mois"
+      },
+      "secteurActivite": "84",
+      "secteurActiviteLibelle": "Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 12 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91131@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Préparateur / Préparatrice de véhicules automobiles",
+      "competences": [
+        {
+          "code": "120130",
+          "exigence": "S",
+          "libelle": "Accueillir une clientèle"
+        },
+        {
+          "code": "122760",
+          "exigence": "S",
+          "libelle": "Identifier une intervention à partir d'un dossier technique"
+        },
+        {
+          "code": "116797",
+          "exigence": "S",
+          "libelle": "Intervention de service rapide"
+        },
+        {
+          "code": "116708",
+          "exigence": "S",
+          "libelle": "Procédures d'entretien de véhicules"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "141 ROUTE de Corbeil",
+        "coordonnees2": "91700 STE GENEVIEVE DES BOIS",
+        "coordonnees3": "Courriel : ape.91131@pole-emploi.fr",
+        "nom": "Pôle Emploi Sainte-Geneviève-des-Bois"
+      },
+      "dateCreation": "2020-06-02T11:15:32+02:00",
+      "description": "Vous assurez le lavage intérieur et extérieur des véhicules destinés à la vente.\nS'assurer du bon fonctionnement des véhicules.\nPermis B indispensable.\nVous devez connaître les bases en mécanique et faites preuve de motivation.\nVos horaires du Lundi au vendredi de 9h à 13h et de 14h à 17h. Repos les week end.\nPermis minimum 3 ans.\nURGENT : envoyer votre CV",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "ALCOPA AUCTION"
+      },
+      "experienceCommentaire": "sur un poste similaire",
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans - sur un poste similaire",
+      "formations": [],
+      "id": "101XQWP",
+      "intitule": "PREPARATEUR DE VEHICULES (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91700",
+        "commune": "91549",
+        "latitude": 48.63777778,
+        "libelle": "91 - STE GENEVIEVE DES BOIS",
+        "longitude": 2.332222221
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XQWP"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "B - Véhicule léger Exigé"
+        }
+      ],
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "I1604",
+      "romeLibelle": "Mécanique automobile et entretien de véhicules",
+      "salaire": {
+        "commentaire": "ticket restaurant",
+        "complement1": "ticket restaurant",
+        "libelle": "Mensuel de 1700,00 Euros sur 12 mois"
+      },
+      "secteurActivite": "69",
+      "secteurActiviteLibelle": "Activités juridiques",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 4 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91043@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Électricien / Électricienne d'équipement domestique",
+      "competences": [
+        {
+          "code": "121777",
+          "exigence": "S",
+          "libelle": "Fixer des éléments basse tension"
+        },
+        {
+          "code": "123597",
+          "exigence": "S",
+          "libelle": "Positionner une armoire électrique de locaux domestiques ou tertiaires"
+        },
+        {
+          "code": "121778",
+          "exigence": "S",
+          "libelle": "Raccorder des éléments basse tension"
+        },
+        {
+          "code": "123598",
+          "exigence": "S",
+          "libelle": "Raccorder une armoire électrique aux équipements de locaux domestiques ou tertiaires"
+        },
+        {
+          "code": "103495",
+          "exigence": "S",
+          "libelle": "Réaliser et poser des chemins de câbles et des conduits électriques en apparent ou en encastré"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "83 AVENUE de la Cour de France",
+        "coordonnees2": "91260 JUVISY SUR ORGE",
+        "coordonnees3": "Courriel : ape.91043@pole-emploi.fr",
+        "nom": "Pôle Emploi Juvisy-sur-Orge"
+      },
+      "dateCreation": "2020-06-02T10:33:09+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens Régional",
+      "description": "Vous intervenez pour des dépannages et de la maintenance électrique sur les parties communes des immeubles . Votre feuille d'interventions vous est remise et vous restez autonome dans la prise de rendez-vous avec les gardiens.\nVous établissez les rapports d'intervention. \nVéhicule et téléphone fournis.\nBien connaître la Région Parisienne, car déplacements quotidiens.\nCDD de 3 mois évolutif ",
+      "dureeTravailLibelle": "39H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "Kam Elec"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans",
+      "formations": [
+        {
+          "codeFormation": "24066",
+          "commentaire": "Pas de commentaire formation",
+          "domaineLibelle": "Installation électrique",
+          "exigence": "E",
+          "niveauLibelle": "CAP, BEP et équivalents"
+        }
+      ],
+      "id": "101XNTY",
+      "intitule": "Électricien / Électricienne d'équipement domestique",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91210",
+        "commune": "91201",
+        "latitude": 48.68611111,
+        "libelle": "91 - DRAVEIL",
+        "longitude": 2.409444444
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XNTY"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "B - Véhicule léger Exigé"
+        }
+      ],
+      "qualificationCode": "3",
+      "qualificationLibelle": "Ouvrier qualifié (P1,P2)",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable",
+          "libelle": "Autonomie"
+        }
+      ],
+      "romeCode": "F1602",
+      "romeLibelle": "Électricité bâtiment",
+      "salaire": {
+        "commentaire": "selon votre experience",
+        "complement1": "selon votre experience"
+      },
+      "secteurActivite": "43",
+      "secteurActiviteLibelle": "Travaux d'installation électrique dans tous locaux",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 3 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Gestionnaire administratif / administrative ressources humaines",
+      "competences": [
+        {
+          "code": "122252",
+          "exigence": "S",
+          "libelle": "Administrer des dossiers individuels de salariés"
+        },
+        {
+          "code": "100343",
+          "exigence": "S",
+          "libelle": "Législation sociale"
+        },
+        {
+          "exigence": "S",
+          "libelle": "Aisance relationnelle"
+        },
+        {
+          "exigence": "S",
+          "libelle": "bonne communication orale et écrite"
+        },
+        {
+          "exigence": "S",
+          "libelle": "Esprit d'équipe"
+        },
+        {
+          "exigence": "S",
+          "libelle": "maîtrise des outils bureautique"
+        },
+        {
+          "exigence": "S",
+          "libelle": "respect de la confidentialité"
+        },
+        {
+          "exigence": "S",
+          "libelle": "sens de la discrétion"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : claire.delaunay@dr4.cnrs.fr",
+        "courriel": "claire.delaunay@dr4.cnrs.fr",
+        "nom": "CNRS MOY400 ILE-DE-FRANCE GIF-SUR-YVETTE - Mme Claire DELAUNAY"
+      },
+      "dateCreation": "2020-06-02T09:50:29+02:00",
+      "description": "Le gestionnaire RH aura pour missions : \nRéaliser des actes administratifs, dans le respect des règles et des procédures légales RH\nTraiter des informations et des dossiers d'ordre administratifs et en vérifier la conformité\nPréparer les éléments pour la mise en œuvre des conventions de stage : instruction des demandes, vérification des éléments de la convention et des pièces justificatives, calcul de la gratification, saisie dans le logiciel de la gestion du personnel Sirhus et contrôle des paiements\nElaborer les attestations de fin de CDD et de Pôle Emploi\nAssurer son appui au pôle de gestion sur les activités transversales en fonction des besoins archivage, suivi de dossiers spécifiques, classement..\nRenseigner des tableaux de bord selon les instructions reçues\nRendre compte de l'état d'avancement des dossiers\nSuivi de dossiers et relance des interlocuteurs \nhttps://emploi.cnrs.fr/Offres/CDD/MOY400-NATSEN-045/Default.aspx\nL'ensemble des mesures Covid 19 ont été prises",
+      "dureeTravailLibelle": "38H30 Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "description": "Le Centre National de la Recherche Scientifique (CNRS) est un organisme public de recherche (Etablissement public à caractère scientifique et technologique) placé sous la tutelle du Ministère de l'Enseignement et de la Recherche. La délégation Ile-de-France Sud, située à Gif/Yvette, rassemble une centaine d'unités de recherche, représente un effectif d'environ 4000 personnels titulaires et contractuels et regroupe les services d'appui aux unités de recherche.",
+        "nom": "CNRS MOY400 ILE-DE-FRANCE GIF-SUR-YVETTE"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans",
+      "formations": [
+        {
+          "codeFormation": "99999",
+          "commentaire": "Pas de commentaire formation",
+          "exigence": "S",
+          "niveauLibelle": "Bac ou équivalent"
+        }
+      ],
+      "id": "101XLYV",
+      "intitule": "Gestionnaire administratif / administrative ressources huma (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91190",
+        "commune": "91272",
+        "latitude": 48.70138889,
+        "libelle": "91 - GIF SUR YVETTE",
+        "longitude": 2.13361111
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XLYV"
+      },
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues et stressantes. Exemple : garder son calme",
+          "libelle": "Gestion du stress"
+        },
+        {
+          "description": "Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité",
+          "libelle": "Sens de l’organisation"
+        },
+        {
+          "description": "Capacité à respecter les règles et codes de l’entreprise; à réaliser des tâches en suivant avec précision les procédures et instructions fournies ; à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction",
+          "libelle": "Rigueur"
+        }
+      ],
+      "romeCode": "M1501",
+      "romeLibelle": "Assistanat en ressources humaines",
+      "salaire": {
+        "commentaire": "1661€ à 1896€ selon expérience",
+        "complement1": "1661€ à 1896€ selon expérience"
+      },
+      "secteurActivite": "72",
+      "secteurActiviteLibelle": "Recherche-développement en sciences humaines et sociales",
+      "trancheEffectifEtab": "2000 à 4999 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Juriste droit public",
+      "competences": [
+        {
+          "code": "124627",
+          "exigence": "E",
+          "libelle": "Apporter des conseils sur des procédures de résolution de litiges"
+        },
+        {
+          "code": "123561",
+          "exigence": "E",
+          "libelle": "Conseiller un client sur des questions d'ordre juridique"
+        },
+        {
+          "code": "108118",
+          "exigence": "E",
+          "libelle": "Veille juridique"
+        },
+        {
+          "code": "119787",
+          "exigence": "S",
+          "libelle": "Animer une formation"
+        },
+        {
+          "code": "103228",
+          "exigence": "S",
+          "libelle": "Droit public"
+        },
+        {
+          "code": "118732",
+          "exigence": "S",
+          "libelle": "Réaliser une veille documentaire (collecte, analyse etc.)"
+        },
+        {
+          "code": "118837",
+          "exigence": "S",
+          "libelle": "Rédiger des actes / procédures juridiques"
+        },
+        {
+          "code": "123656",
+          "exigence": "S",
+          "libelle": "Sensibiliser un public à une réglementation"
+        },
+        {
+          "code": "100090",
+          "exigence": "S",
+          "libelle": "Techniques pédagogiques"
+        },
+        {
+          "code": "120695",
+          "exigence": "S",
+          "libelle": "Traiter des dossiers de contentieux (litiges, réclamations ...)"
+        },
+        {
+          "exigence": "S",
+          "libelle": "sens de l'organisation"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : claire.delaunay@dr4.cnrs.fr",
+        "courriel": "claire.delaunay@dr4.cnrs.fr",
+        "nom": "CNRS MOY400 ILE-DE-FRANCE GIF-SUR-YVETTE - Mme Claire DELAUNAY"
+      },
+      "dateCreation": "2020-06-02T09:44:07+02:00",
+      "description": "Le/la Conseiller règlementation RH contribue à l'instruction des dossiers en veillant à la bonne application des dispositions réglementaires dans le domaine RH (Paie, carrière). Il/elle renseigne, assiste et conseille le pôle Gestion Administrative des Personnels sur l'ensemble des populations gérées (CDD, IT, chercheurs...) et plus largement l'ensemble du service RH. Assure un contact privilégié avec le service juridique national sur les dossiers nécessitant une expertise particulière ou sensibles. Coordonne les actions demandées par ce dernier pour la mise en œuvre des évolutions législatives. \nAssure une veille sur l'évolution de la réglementation et des procédures et s'assurer de leur bonne application\nCréer un fond documentaire, rédiger des notes de synthèse et d'information sur l'actualité juridique et des fiches de procédures qui y seront intégrées. \nhttps://emploi.cnrs.fr/Offres/CDD/MOY400-NATSEN-046/Default.aspx\nL'ensemble des mesures Covid 19 ont été prises.",
+      "dureeTravailLibelle": "38H30 Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "description": "Le Centre National de la Recherche Scientifique (CNRS) est un organisme public de recherche (Etablissement public à caractère scientifique et technologique) placé sous la tutelle du Ministère de l'Enseignement et de la Recherche. La délégation Ile-de-France Sud, située à Gif/Yvette, rassemble une centaine d'unités de recherche, représente un effectif d'environ 4000 personnels titulaires et contractuels et regroupe les services d'appui aux unités de recherche.",
+        "nom": "CNRS MOY400 ILE-DE-FRANCE GIF-SUR-YVETTE"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans",
+      "formations": [
+        {
+          "codeFormation": "13254",
+          "commentaire": "ou ressources humaines",
+          "domaineLibelle": "Droit",
+          "exigence": "E",
+          "niveauLibelle": "Bac+3, Bac+4 ou équivalents"
+        },
+        {
+          "codeFormation": "13254",
+          "commentaire": "ou ressources humaines",
+          "domaineLibelle": "Droit",
+          "exigence": "S",
+          "niveauLibelle": "Bac+5 et plus ou équivalents"
+        }
+      ],
+      "id": "101XLSW",
+      "intitule": "Conseiller en réglementation Ressources Humaines (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91190",
+        "commune": "91272",
+        "latitude": 48.70138889,
+        "libelle": "91 - GIF SUR YVETTE",
+        "longitude": 2.13361111
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XLSW"
+      },
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à s’adapter à des situations variées et à s’ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l’entreprise. Exemple : être souple, agile, s’adapter à une situation imprévue",
+          "libelle": "Capacité d’adaptation"
+        },
+        {
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l’entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l’aide",
+          "libelle": "Travail en équipe"
+        },
+        {
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable",
+          "libelle": "Autonomie"
+        }
+      ],
+      "romeCode": "K1903",
+      "romeLibelle": "Défense et conseil juridique",
+      "salaire": {
+        "libelle": "Mensuel de 2139 Euros à 2551 Euros sur 12 mois"
+      },
+      "secteurActivite": "72",
+      "secteurActiviteLibelle": "Recherche-développement en sciences humaines et sociales",
+      "trancheEffectifEtab": "2000 à 4999 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Aide-soignant / Aide-soignante",
+      "competences": [
+        {
+          "code": "107660",
+          "exigence": "E",
+          "libelle": "Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+        },
+        {
+          "code": "107661",
+          "exigence": "E",
+          "libelle": "Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+        },
+        {
+          "code": "116410",
+          "exigence": "E",
+          "libelle": "Repérer les modifications d'état du patient"
+        },
+        {
+          "code": "107659",
+          "exigence": "E",
+          "libelle": "Surveiller l'état général du patient/résident, lui distribuer les médicaments et informer l'infirmier des manifestations anormales ou des risques de chutes, escarres, ..."
+        },
+        {
+          "code": "107662",
+          "exigence": "S",
+          "libelle": "Accompagner la personne dans les gestes de la vie quotidienne"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : recrutement@asad91.fr",
+        "courriel": "recrutement@asad91.fr",
+        "nom": "ASSOCIATION SANTE A DOMICILE - Mme anne bouchet-skalka"
+      },
+      "dateCreation": "2020-06-02T08:52:50+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens Départemental",
+      "description": "L'aide-soignant(e) à domicile participe à différentes actions afin de préserver l'autonomie du patient, d'assurer son confort, sa sécurité et respecter sa dignité.\nLes tâches principales sont :\n- le nursing et le change\n- veiller à l'hygiène et à la sécurité du matériel\n- aider au lever et au coucher\n- la stimulation de la mobilité\n- aider à la prise des médicaments\n- prendre la mesure des paramètres vitaux\nPermis de conduire indispensable car intervention sur plusieurs communes",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "description": "L'ASAD est une association de plus de 50 ans et de 145 salariés, ayant 3 services : une équipe spécialisée Alzheimer, un service d'Aide à Domicile et un service Soins à Domicile de 46 salariés dont 36 aides-soignants et 6 infirmiers.\nNous travaillons 7 jours/7 et sommes répartis en 3 secteurs recouvrant 25 communes.",
+        "nom": "ASSOCIATION SANTE A DOMICILE",
+        "url": "http://asad91.fr."
+      },
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [
+        {
+          "codeFormation": "43436",
+          "commentaire": "Pas de commentaire formation",
+          "domaineLibelle": "Aide-soignant",
+          "exigence": "E",
+          "niveauLibelle": "Bac ou équivalent"
+        }
+      ],
+      "id": "101XKJF",
+      "intitule": "AIDE-SOIGNANT(E)                            (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91830",
+        "commune": "91179",
+        "latitude": 48.56583333,
+        "libelle": "91 - LE COUDRAY MONTCEAUX",
+        "longitude": 2.48611111
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XKJF"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "B - Véhicule léger Exigé"
+        }
+      ],
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à s’adapter à des situations variées et à s’ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l’entreprise. Exemple : être souple, agile, s’adapter à une situation imprévue",
+          "libelle": "Capacité d’adaptation"
+        },
+        {
+          "description": "Capacité à transmettre clairement des informations, à échanger, à écouter activement, à réceptionner des informations et messages et à faire preuve d’ouverture d’esprit. Exemple : être à l’écoute, être attentif aux autres",
+          "libelle": "Sens de la communication"
+        },
+        {
+          "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d’urgence / d’importance. Exemple : faire preuve de dynamisme, vivacité, énergie, comprendre vite",
+          "libelle": "Réactivité"
+        }
+      ],
+      "romeCode": "J1501",
+      "romeLibelle": "Soins d'hygiène, de confort du patient",
+      "salaire": {
+        "complement1": "Véhicule",
+        "complement2": "CE",
+        "libelle": "Horaire de 11,2 Euros à 13,5 Euros sur 12 mois"
+      },
+      "secteurActivite": "88",
+      "secteurActiviteLibelle": "Aide à domicile",
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91035@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Technicien / Technicienne d'intervention en froid et climatisation",
+      "competences": [
+        {
+          "code": "106743",
+          "exigence": "S",
+          "libelle": "Démarrer l'installation, ajuster les réglages (paramètres de fonctionnement, de régulation, températures, pressions, ...)"
+        },
+        {
+          "code": "124396",
+          "exigence": "S",
+          "libelle": "Détecter un dysfonctionnement"
+        },
+        {
+          "code": "106740",
+          "exigence": "S",
+          "libelle": "Positionner et fixer les groupes, condenseurs, tubes, câbles électriques, ... de l'installation frigorifique, de conditionnement d'air, ..."
+        },
+        {
+          "code": "106742",
+          "exigence": "S",
+          "libelle": "Vérifier la conformité de l'installation, contrôler l'étanchéité et déterminer la charge de fluide frigorigène, tirer au vide l'installation et charger le circuit"
+        },
+        {
+          "exigence": "S",
+          "libelle": "Poseur en climatisation"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "15 RUE DE SACLAS",
+        "coordonnees2": "91150 ETAMPES",
+        "coordonnees3": "Courriel : ape.91035@pole-emploi.fr",
+        "nom": "Pôle Emploi Etampes"
+      },
+      "dateCreation": "2020-06-02T07:37:57+02:00",
+      "deplacementCode": "4",
+      "deplacementLibelle": "Quotidiens",
+      "description": "poste à pourvoir au  8juin pour 45 J. \nVous partirez du dépôt de Maisse pour travailler en équipe sur les chantiers résidentiels de particuliers en Sud Essonne.\nVous effectuerez l'installation de climatisations. La qualité du travail et la relation au client sont primordiales pour l'activité de l'entreprise. \nLa formation n'est pas obligatoire si vous avez exercé au moins 2 ans sur un même type de poste. ",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "THERMO CLIM"
+      },
+      "experienceCommentaire": "en pose de climatisation",
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans - en pose de climatisation",
+      "formations": [],
+      "id": "101XJTN",
+      "intitule": "Monteur / Monteuse en installations thermiques (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91720",
+        "commune": "91359",
+        "latitude": 48.39472222,
+        "libelle": "91 - MAISSE",
+        "longitude": 2.37611111
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XJTN"
+      },
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manoeuvre",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à s’adapter à des situations variées et à s’ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l’entreprise. Exemple : être souple, agile, s’adapter à une situation imprévue",
+          "libelle": "Capacité d’adaptation"
+        },
+        {
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable",
+          "libelle": "Autonomie"
+        },
+        {
+          "description": "Capacité à respecter les règles et codes de l’entreprise; à réaliser des tâches en suivant avec précision les procédures et instructions fournies ; à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction",
+          "libelle": "Rigueur"
+        }
+      ],
+      "romeCode": "I1306",
+      "romeLibelle": "Installation et maintenance en froid, conditionnement d'air",
+      "salaire": {
+        "libelle": "Horaire de 10,58 Euros à 10,60 Euros sur 12 mois"
+      },
+      "secteurActivite": "43",
+      "secteurActiviteLibelle": "Travaux d'installation d'équipements thermiques et de climatisation",
+      "trancheEffectifEtab": "3 à 5 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 45 Jour(s)"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Technicien / Technicienne de production en industrie pharmaceutique",
+      "competences": [
+        {
+          "code": "119364",
+          "exigence": "S",
+          "libelle": "Contrôler la conformité d'une production"
+        },
+        {
+          "code": "122099",
+          "exigence": "S",
+          "libelle": "Contrôler la qualité d'une production"
+        },
+        {
+          "code": "123601",
+          "exigence": "S",
+          "libelle": "Contrôler la sécurité d'une installation"
+        },
+        {
+          "code": "123564",
+          "exigence": "S",
+          "libelle": "Contrôler le fonctionnement d'un outil ou équipement"
+        },
+        {
+          "code": "104855",
+          "exigence": "S",
+          "libelle": "Surveiller le fonctionnement des machines et des équipements et effectuer des interventions simples en cas d'incident"
+        },
+        {
+          "exigence": "S",
+          "libelle": "pack office (Excel, Word etc."
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : m.schott@lynx-rh.com",
+        "courriel": "m.schott@lynx-rh.com",
+        "nom": "LYNX RH - Mme Marie SCHOTT"
+      },
+      "dateCreation": "2020-06-01T12:15:29+02:00",
+      "description": "Lynx RH Massy, cabinet de recrutement en CDI, CDD et Intérim, recherche pour l'un de ses clients, spécialisé dans la fabrication de préparations pharmaceutiques, un Technicien de Production Chimie,.\nRattaché au responsable de production, vos principales missions sont les suivantes :\n-Assurer la production et les contrôles des produits de votre périmètre.\n-Préparer les solutions intermédiaires et le matériel nécessaire aux fabrications.\n-Rédiger et vérifier les documents assurant la traçabilité de la production.\n-Prendre part à l'élaboration et à la modification des procédures de travail.\n-Veiller au respect des BPF.\n BAC + 2/3 Chimie, Biochimie. \n- Bonne maîtrise des outils informatiques\n- Aptitudes au travail en équipe\n- Expérience en radiochimie appréciée\n",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "LYNX RH"
+      },
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [
+        {
+          "codeFormation": "11554",
+          "commentaire": "Pas de commentaire formation",
+          "domaineLibelle": "Chimie",
+          "exigence": "S",
+          "niveauLibelle": "Bac+2 ou équivalents"
+        }
+      ],
+      "id": "101XGKL",
+      "intitule": "Technicien / Technicienne de production en industrie pharmaceutique",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91300",
+        "commune": "91377",
+        "latitude": 48.73055555,
+        "libelle": "91 - MASSY",
+        "longitude": 2.276388888
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XGKL"
+      },
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l’entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l’aide",
+          "libelle": "Travail en équipe"
+        },
+        {
+          "description": "Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité",
+          "libelle": "Sens de l’organisation"
+        },
+        {
+          "description": "Capacité à respecter les règles et codes de l’entreprise; à réaliser des tâches en suivant avec précision les procédures et instructions fournies ; à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction",
+          "libelle": "Rigueur"
+        }
+      ],
+      "romeCode": "H2301",
+      "romeLibelle": "Conduite d'équipement de production chimique ou pharmaceutique",
+      "salaire": {
+        "libelle": "Annuel de 24000,00 Euros à 26000,00 Euros sur 13 mois"
+      },
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+      "trancheEffectifEtab": "0 salarié",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Assistant commercial / Assistante commerciale",
+      "competences": [
+        {
+          "code": "121646",
+          "exigence": "E",
+          "libelle": "Enregistrer les données d'une commande"
+        },
+        {
+          "code": "117243",
+          "exigence": "E",
+          "libelle": "Établir un devis"
+        },
+        {
+          "code": "121280",
+          "exigence": "E",
+          "libelle": "Réceptionner les appels téléphoniques"
+        },
+        {
+          "code": "122330",
+          "exigence": "E",
+          "libelle": "Renseigner un client"
+        },
+        {
+          "code": "124537",
+          "exigence": "E",
+          "libelle": "Vérifier les conditions de réalisation d'une commande"
+        },
+        {
+          "exigence": "S",
+          "libelle": "Excel courant"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : michon@wittgas.com",
+        "courriel": "michon@wittgas.com",
+        "nom": "WITT FRANCE SARL - M. Laurent Michon"
+      },
+      "dateCreation": "2020-05-31T11:46:18+02:00",
+      "description": "PME 5 personnes recherche pour remplacement temporaire (2 ou 3 mois) un(e) assistant(e).\nVos taches seront les suivantes :\n-Gestion des commandes clients/fournisseurs.\n-Facturation. \n-Réception appels. \n-Suivi des interventions des techniciens. Produits techniques.\n La maîtrise de la langue allemande est  indispensable. ",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "description": "Filiale de WITT GASTECHNIK Gmbh. Vente et après vente de matériels pour les gaz industriels.",
+        "nom": "WITT FRANCE SARL",
+        "url": "http://www.wittgas.com"
+      },
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [],
+      "id": "101XDKZ",
+      "intitule": "Assistant commercial / Assistante commerciale (H/F)",
+      "langues": [
+        {
+          "exigence": "E",
+          "libelle": "Allemand Courant Exigé"
+        }
+      ],
+      "lieuTravail": {
+        "codePostal": "91390",
+        "commune": "91434",
+        "latitude": 48.66333333,
+        "libelle": "91 - MORSANG SUR ORGE",
+        "longitude": 2.351388888
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XDKZ"
+      },
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité",
+          "libelle": "Sens de l’organisation"
+        },
+        {
+          "description": "Capacité à respecter les règles et codes de l’entreprise; à réaliser des tâches en suivant avec précision les procédures et instructions fournies ; à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction",
+          "libelle": "Rigueur"
+        },
+        {
+          "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d’urgence / d’importance. Exemple : faire preuve de dynamisme, vivacité, énergie, comprendre vite",
+          "libelle": "Réactivité"
+        }
+      ],
+      "romeCode": "D1401",
+      "romeLibelle": "Assistanat commercial",
+      "salaire": {
+        "libelle": "Mensuel de 2500 Euros à 3000 Euros sur 12 mois"
+      },
+      "secteurActivite": "46",
+      "secteurActiviteLibelle": "Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers",
+      "trancheEffectifEtab": "3 à 5 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 2 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Esthéticien praticien / Esthéticienne praticienne",
+      "competences": [
+        {
+          "code": "120130",
+          "exigence": "S",
+          "libelle": "Accueillir une clientèle"
+        },
+        {
+          "code": "102050",
+          "exigence": "S",
+          "libelle": "Appliquer les produits (masque, sérum, crème) et réaliser les soins du visage, du corps, de manucure ou de maquillage"
+        },
+        {
+          "code": "102048",
+          "exigence": "S",
+          "libelle": "Déterminer le traitement adapté à la personne et présenter les produits, l'application des soins"
+        },
+        {
+          "code": "124548",
+          "exigence": "S",
+          "libelle": "Entretenir un poste de travail"
+        },
+        {
+          "code": "102062",
+          "exigence": "S",
+          "libelle": "Pratiquer des techniques manuelles drainantes, relaxantes, raffermissantes, stimulantes, ..."
+        },
+        {
+          "code": "121698",
+          "exigence": "S",
+          "libelle": "Proposer un service, produit adapté à la demande client"
+        },
+        {
+          "code": "102059",
+          "exigence": "S",
+          "libelle": "Réaliser des soins du corps"
+        },
+        {
+          "code": "102060",
+          "exigence": "S",
+          "libelle": "Réaliser des soins du visage"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : bgoulin@orange.fr",
+        "courriel": "bgoulin@orange.fr",
+        "nom": "BAANMAI THAI SPA - M. herve goulin"
+      },
+      "dateCreation": "2020-05-30T13:11:22+02:00",
+      "description": "Nous recherchons trois masseurs(ses) pour notre salon de massage Thaïlandais traditionnel situé sur Athis Mons. \nVous maîtrisez les techniques du massage Thaïlandais . \nVous serez en charge d'accueillir la clientèle. \nVous gérez le linge et veillez à la propreté du salon.\nles horaires d'ouverture sont de 11h00 a 20H00 du lundi  au samedi et le dimanche de12h a 20h.",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "BAANMAI THAI SPA"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "1 an",
+      "formations": [],
+      "id": "101XCWB",
+      "intitule": "masseur/masseuse thailandais traditionnel (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91200",
+        "commune": "91027",
+        "latitude": 48.70861111,
+        "libelle": "91 - ATHIS MONS",
+        "longitude": 2.389166666
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XCWB"
+      },
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "D1208",
+      "romeLibelle": "Soins esthétiques et corporels",
+      "salaire": {
+        "libelle": "Mensuel de 1539,45 Euros sur 12 mois"
+      },
+      "secteurActivite": "96",
+      "secteurActiviteLibelle": "Entretien corporel",
+      "trancheEffectifEtab": "3 à 5 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Pâtissier / Pâtissière",
+      "competences": [
+        {
+          "code": "125069",
+          "exigence": "E",
+          "libelle": "Cuire des produits de pâtisserie, confiseries ou pièces de chocolat"
+        },
+        {
+          "code": "125971",
+          "exigence": "E",
+          "libelle": "Définir des besoins en approvisionnement"
+        },
+        {
+          "code": "126105",
+          "exigence": "E",
+          "libelle": "Effectuer le montage et la décoration des produits pâtissiers"
+        },
+        {
+          "code": "124548",
+          "exigence": "E",
+          "libelle": "Entretenir un poste de travail"
+        },
+        {
+          "code": "119000",
+          "exigence": "E",
+          "libelle": "Gestion des stocks et des approvisionnements"
+        },
+        {
+          "code": "124934",
+          "exigence": "E",
+          "libelle": "Mélanger des produits et ingrédients culinaires"
+        },
+        {
+          "code": "101752",
+          "exigence": "E",
+          "libelle": "Réaliser des pâtisseries"
+        },
+        {
+          "code": "101786",
+          "exigence": "E",
+          "libelle": "Sélectionner et doser les ingrédients (farine, levure, additifs, ...) pour la réalisation des produits"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : meauxidalia@orange.fr",
+        "courriel": "meauxidalia@orange.fr",
+        "nom": "MEAUX IDALIA - Mme Idalia Meaux"
+      },
+      "dateCreation": "2020-05-30T09:13:07+02:00",
+      "description": "nous recherchons un/une pâtissier dans le cadre de notre développement pour exécuter des taches en toute autonomie.\n\nvotre dynamisme, votre motivation, votre rigueur et vos qualités relationnelles (travail en équipe) seront des atouts indispensables pour réussir sur ce poste.\n\nrepos lundi + dimanche tous les 15 jours\n\nl'employeur s'engage a respecter et a mis en place toutes les mesures de protection sanitaire dans le cadre du Covid-19",
+      "dureeTravailLibelle": "44H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "MEAUX IDALIA"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "5 ans",
+      "formations": [],
+      "id": "101XCPF",
+      "intitule": "Pâtissier / Pâtissière (H/F)",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91380",
+        "commune": "91161",
+        "latitude": 48.70527778,
+        "libelle": "91 - CHILLY MAZARIN",
+        "longitude": 2.316111111
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101XCPF"
+      },
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "qualitesProfessionnelles": [
+        {
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l’entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l’aide",
+          "libelle": "Travail en équipe"
+        },
+        {
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable",
+          "libelle": "Autonomie"
+        },
+        {
+          "description": "Capacité à respecter les règles et codes de l’entreprise; à réaliser des tâches en suivant avec précision les procédures et instructions fournies ; à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction",
+          "libelle": "Rigueur"
+        }
+      ],
+      "romeCode": "D1104",
+      "romeLibelle": "Pâtisserie, confiserie, chocolaterie et glacerie",
+      "salaire": {
+        "libelle": "Mensuel de 2000 Euros à 2310 Euros sur 12 mois"
+      },
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Activités des sièges sociaux",
+      "trancheEffectifEtab": "3 à 5 salariés",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 3 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "agence": {
+        "courriel": "ape.91066@pole-emploi.fr"
+      },
+      "alternance": false,
+      "appellationlibelle": "Esthéticien / Esthéticienne",
+      "competences": [
+        {
+          "code": "120130",
+          "exigence": "S",
+          "libelle": "Accueillir une clientèle"
+        },
+        {
+          "code": "102050",
+          "exigence": "S",
+          "libelle": "Appliquer les produits (masque, sérum, crème) et réaliser les soins du visage, du corps, de manucure ou de maquillage"
+        },
+        {
+          "code": "101938",
+          "exigence": "S",
+          "libelle": "Cosmétique"
+        },
+        {
+          "code": "102048",
+          "exigence": "S",
+          "libelle": "Déterminer le traitement adapté à la personne et présenter les produits, l'application des soins"
+        },
+        {
+          "code": "117532",
+          "exigence": "S",
+          "libelle": "Disposer des produits sur le lieu de vente"
+        },
+        {
+          "code": "124629",
+          "exigence": "S",
+          "libelle": "Entretenir un outil ou matériel"
+        },
+        {
+          "code": "124548",
+          "exigence": "S",
+          "libelle": "Entretenir un poste de travail"
+        },
+        {
+          "code": "101343",
+          "exigence": "S",
+          "libelle": "Principes de la relation client"
+        },
+        {
+          "code": "121698",
+          "exigence": "S",
+          "libelle": "Proposer un service, produit adapté à la demande client"
+        },
+        {
+          "code": "100414",
+          "exigence": "S",
+          "libelle": "Règles d'hygiène et d'asepsie"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "2 ROUTE d'Egly",
+        "coordonnees2": "91290 ARPAJON",
+        "coordonnees3": "Courriel : ape.91066@pole-emploi.fr",
+        "nom": "Pôle Emploi Arpajon"
+      },
+      "dateCreation": "2020-05-29T17:04:03+02:00",
+      "description": "Pour compléter notre équipe, notre institut recherche un(e) esthéticien(ne) expérimenté(e).\nVous serez en charge de réaliser les soins du visage et du corps , épilations, conseils et vente des produits.\nProfil recherché: bonne présentation , sens du service client, esprit d'équipe , enthousiasme.",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans",
+      "formations": [
+        {
+          "codeFormation": "99999",
+          "commentaire": "Pas de commentaire formation",
+          "exigence": "E",
+          "niveauLibelle": "CAP, BEP et équivalents"
+        }
+      ],
+      "id": "101WZYH",
+      "intitule": "Esthéticien / Esthéticienne",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91290",
+        "commune": "91021",
+        "latitude": 48.59027778,
+        "libelle": "91 - ARPAJON",
+        "longitude": 2.247777777
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101WZYH"
+      },
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "D1208",
+      "romeLibelle": "Soins esthétiques et corporels",
+      "salaire": {
+        "commentaire": "primes sur résultats",
+        "complement1": "primes sur résultats",
+        "libelle": "Mensuel de 1539,42 Euros sur 12 mois"
+      },
+      "secteurActivite": "47",
+      "secteurActiviteLibelle": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 6 Mois"
+    },
+    {
+      "accessibleTH": false,
+      "alternance": false,
+      "appellationlibelle": "Moniteur éducateur / Monitrice éducatrice",
+      "competences": [
+        {
+          "code": "117427",
+          "exigence": "S",
+          "libelle": "Communication externe"
+        },
+        {
+          "code": "117426",
+          "exigence": "S",
+          "libelle": "Communication interne"
+        },
+        {
+          "code": "107904",
+          "exigence": "S",
+          "libelle": "Organiser les activités journalières pour la personne ou le groupe, en suivre la réalisation et intervenir lors de conflits, d'incidents"
+        },
+        {
+          "code": "107908",
+          "exigence": "S",
+          "libelle": "Suivre le projet socioéducatif avec la personne et lui proposer des axes d'adaptation"
+        },
+        {
+          "code": "107905",
+          "exigence": "S",
+          "libelle": "Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne"
+        }
+      ],
+      "contact": {
+        "coordonnees1": "Courriel : cds.mna@home-meitis.fr",
+        "courriel": "cds.mna@home-meitis.fr",
+        "nom": "HOME MEITIS - Mme CRUSSON"
+      },
+      "dateCreation": "2020-05-29T15:18:58+02:00",
+      "description": "PRISE DE POSTE IMMÉDIATE\n\nVous serez dans une structure d'internat.  Vous serez des accompagnateurs pour un public de mineur.\nVos missions principales seront :\n- Communication interne \n- Transmission des règles sociales \n- Mise en place des projets personnels et professionnels\n- Suivi et soutien scolaire\n- Vous organiserez des activités manuelles, sportives, culturelles et éducatives\n- Gestion des dossiers administratifs\n\nCDD renouvelable, poste évolutif en CDI",
+      "dureeTravailLibelle": "35H Horaires normaux",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "entreprise": {
+        "nom": "HOME MEITIS"
+      },
+      "experienceExige": "E",
+      "experienceLibelle": "6 mois",
+      "formations": [],
+      "id": "101WXGF",
+      "intitule": "Moniteur éducateur / Monitrice éducatrice",
+      "langues": [],
+      "lieuTravail": {
+        "codePostal": "91160",
+        "commune": "91345",
+        "latitude": 48.69694444,
+        "libelle": "91 - LONGJUMEAU",
+        "longitude": 2.295555555
+      },
+      "natureContrat": "Contrat travail",
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "1",
+        "partenaires": [],
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/101WXGF"
+      },
+      "permis": [
+        {
+          "exigence": "E",
+          "libelle": "B - Véhicule léger Exigé"
+        }
+      ],
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "romeCode": "K1207",
+      "romeLibelle": "Intervention socioéducative",
+      "salaire": {
+        "commentaire": "% selon la convention 66",
+        "complement1": "% selon la convention 66"
+      },
+      "secteurActivite": "87",
+      "secteurActiviteLibelle": "Hébergement social pour enfants en difficultés",
+      "trancheEffectifEtab": "0 salarié",
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 1 Mois"
+    }
+  ]
+}
