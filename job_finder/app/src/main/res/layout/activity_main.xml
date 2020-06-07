@@ -13,7 +13,7 @@
             android:layout_height="match_parent"
 
             android:id="@+id/fragment_container"
-            android:name="com.example.job_finder.ProfileFragment">
+            android:name="com.example.job_finder.FormFragment">
 
         </fragment>
     </FrameLayout>

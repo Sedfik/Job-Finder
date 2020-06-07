@@ -12,8 +12,8 @@ public class Offer {
     private String id;
     private String intitule;
     private String description;
-    private String lieu_travail_latitude;
-    private String lieu_travail_longitude;
+    private double lieu_travail_latitude;
+    private double lieu_travail_longitude;
     private String code_ROME;
     private String nom_entreprise;
     private String type_contrat;
@@ -21,7 +21,7 @@ public class Offer {
     private String url_postulation;
 
 
-    public Offer(String id, String intitule, String description, String lieu_travail_latitude, String lieu_travail_longitude, String code_ROME, String nom_entreprise, String type_contrat, String salaire, String url_postulation) {
+    public Offer(String id, String intitule, String description, double lieu_travail_latitude, double lieu_travail_longitude, String code_ROME, String nom_entreprise, String type_contrat, String salaire, String url_postulation) {
         this.id = id;
         this.intitule = intitule;
         this.description = description;
@@ -46,11 +46,11 @@ public class Offer {
         return description;
     }
 
-    public String getLieu_travail_latitude() {
+    public double getLieu_travail_latitude() {
         return lieu_travail_latitude;
     }
 
-    public String getLieu_travail_longitude() {
+    public double getLieu_travail_longitude() {
         return lieu_travail_longitude;
     }
 
@@ -74,4 +74,19 @@ public class Offer {
         return url_postulation;
     }
 
+    @Override
+    public String toString() {
+        return "Offer{" +
+                "id='" + id + '\'' +
+                ", intitule='" + intitule + '\'' +
+                ", description='" + description + '\'' +
+                ", lieu_travail_latitude=" + lieu_travail_latitude +
+                ", lieu_travail_longitude=" + lieu_travail_longitude +
+                ", code_ROME='" + code_ROME + '\'' +
+                ", nom_entreprise='" + nom_entreprise + '\'' +
+                ", type_contrat='" + type_contrat + '\'' +
+                ", salaire='" + salaire + '\'' +
+                ", url_postulation='" + url_postulation + '\'' +
+                '}';
+    }
 }

@@ -1,68 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.job_finder.ProfileFragment">
-
+    android:orientation="vertical"
+    android:background="#FFF">
 <LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="#FFF">
 
-<LinearLayout
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="Profil"
+            android:textSize="30sp"
+            android:textColor="#E43F3F"/>
+
+    </RelativeLayout>
+
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.5"
         android:orientation="vertical"
         android:layout_margin="30dp">
 
-        <EditText
-            android:id="@+id/username"
+        <TextView
+            android:id="@+id/tvNom"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text"
-            android:hint="Location(ville)"/>
+            android:hint="Nom"/>
 
-        <EditText
-            android:id="@+id/password"
+        <TextView
+            android:id="@+id/tvPrenom"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text"
-            android:hint="ContractType(permanent ou mis temps)"/>
-        <EditText
-            android:id="@+id/password2"
+            android:hint="Prenom"/>
+        <TextView
+            android:id="@+id/tvTitre_emploie"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text"
-            android:hint="ContractTime(CDD ou CDI)'"/>
-        <EditText
-            android:id="@+id/password3"
+            android:hint="Titre emploie"/>
+        <TextView
+            android:id="@+id/tvCompetences"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text"
-            android:hint="Company(nom de la compagnie)"/>
-        <EditText
-            android:id="@+id/password4"
+            android:hint="Competences"/>
+        <TextView
+            android:id="@+id/tvAnnees_xp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text"
-            android:hint="Category du metier (liste déroulante)"/>
-        <EditText
-            android:id="@+id/password5"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:inputType="textPassword"
-            android:hint="SourceName(quel site de la compagnie)"/>
+            android:hint="Années d'experiences"/>
 
+        <Button
+            android:id="@+id/btn"
+            android:layout_marginTop="50dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Trouver des offres !"
+            android:textColor="#FFF"
+            android:background="#E12929"
+            android:onClick="goToMap"/>
 
     </LinearLayout>
-    <Button
-        android:id="@+id/btn"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Suivant"
-        android:textColor="#FFF"
-        android:background="#E12929" />
 </LinearLayout>
 </FrameLayout>
